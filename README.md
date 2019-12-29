@@ -12,4 +12,4 @@ cd ..</br>
 cd ..</br>
 python3 getr.py
 
-#See output.txt
+# See output.txt
