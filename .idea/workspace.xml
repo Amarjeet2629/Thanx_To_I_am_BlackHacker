@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d862a32d-44b6-457d-b319-90a8da48f0f6" name="Default Changelist" comment="" />
+    <list default="true" id="d862a32d-44b6-457d-b319-90a8da48f0f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/getr.py" beforeDir="false" afterPath="$PROJECT_DIR$/getr.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1VfXFOMp1yrS6bxkiAW56OV9ddA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577645018302</updated>
-      <workItem from="1577645029562" duration="662000" />
+      <workItem from="1577645029562" duration="1348000" />
     </task>
     <servers />
   </component>
@@ -51,5 +58,9 @@
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state x="432" y="202" width="492" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1366.743@0.25.1366.743" timestamp="1577645087459" />
+    <state x="480" y="316" width="405" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577646433530">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="480" y="316" width="405" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1366.743@0.25.1366.743" timestamp="1577646433530" />
   </component>
 </project>

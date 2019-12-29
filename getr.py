@@ -48,7 +48,7 @@ def open_roll(N):
 
 
 try:
-	for i in range(17135001, 17135115):   # Replace first 0 with the starting roll and the second zero with ending roll
+	for i in range(0, 0):   # Replace first 0 with the starting roll and the second zero with ending roll
 		N = str(i)
 		open_roll(N)
 except pickle.UnpicklingError:
