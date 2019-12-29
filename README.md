@@ -13,3 +13,6 @@ cd ..</br>
 python3 getr.py
 
 # See output.txt
+
+# Imp. Info
+clear your output.txt after everyuse.
